@@ -1,0 +1,177 @@
+"aa" = (/turf/Environment/Ocean,/area)
+"ab" = (/turf/Environment/water_rock,/turf/Environment/Ocean,/area)
+"ac" = (/turf/Environment/Cliffs/no_snow,/area)
+"ad" = (/turf/Environment/Sand,/area)
+"ae" = (/turf/Environment/Lava,/area)
+"af" = (/turf/Environment/Cliffs,/area)
+"ag" = (/turf/Environment/Grass,/area)
+"ah" = (/obj/Woodcutting/Tree2,/turf/Environment/Grass,/area)
+"ai" = (/turf/Environment/Water,/area)
+"aj" = (/turf/Environment/Water/noF,/area)
+"ak" = (/turf/Environment/water_rock/nofreeze,/turf/Environment/Water/noF,/area)
+"al" = (/obj/Woodcutting/Tree,/turf/Environment/Grass,/area)
+"am" = (/turf/Environment/Water,/region)
+"an" = (/turf/Environment/Cliffs,/region)
+"ao" = (/turf/Environment/Cliffs/no_snow,/region)
+"ap" = (/turf/Environment/Water/noF,/region)
+"aq" = (/turf/Environment/water_rock/nofreeze,/turf/Environment/Water/noF,/region)
+"ar" = (/turf/Environment/Grass/jungle,/area)
+"as" = (/turf/Environment/cliff_edge/grass{tag = "icon-9"; icon_state = "9"},/region)
+"at" = (/turf/Environment/cliff_edge/grass,/region)
+"au" = (/turf/Environment/cliff_edge/grass{tag = "icon-5"; icon_state = "5"},/region)
+"av" = (/turf/Environment/cliff_edge/jungle{tag = "icon-9"; icon_state = "9"},/region)
+"aw" = (/turf/Environment/cliff_edge/jungle,/region)
+"ax" = (/turf/Environment/cliff_edge/jungle{tag = "icon-5"; icon_state = "5"},/region)
+"ay" = (/turf/Environment/water_rock,/turf/Environment/Cliffs/no_snow,/area)
+"az" = (/turf/Environment/cliff_edge/grass{tag = "icon-8"; icon_state = "8"},/region)
+"aA" = (/turf/Environment/Grass,/region)
+"aB" = (/turf/Environment/cliff_edge/grass{tag = "icon-4"; icon_state = "4"},/region)
+"aC" = (/turf/Environment/water_rock,/turf/Environment/Water,/region)
+"aD" = (/turf/Environment/water_rock,/turf/Environment/Cliffs,/region)
+"aE" = (/turf/Environment/cliff_edge/jungle{tag = "icon-8"; icon_state = "8"},/region)
+"aF" = (/turf/Environment/Grass/jungle,/region)
+"aG" = (/turf/Environment/cliff_edge/jungle{tag = "icon-4"; icon_state = "4"},/region)
+"aH" = (/obj/Woodcutting/Jungle/Tree3,/turf/Environment/Grass/jungle,/area)
+"aI" = (/turf/Environment/cliff_edge/grass{tag = "icon-10"; icon_state = "10"},/region)
+"aJ" = (/turf/Environment/cliff_edge/grass{tag = "icon-2"; icon_state = "2"},/region)
+"aK" = (/turf/Environment/cliff_edge/grass{tag = "icon-6"; icon_state = "6"},/region)
+"aL" = (/turf/Environment/Cliffs,/turf/Environment/Water{icon_state = "Fall"; layer = 2; tag = "icon-Fall"},/region)
+"aM" = (/turf/Environment/Cliffs/no_snow,/turf/Environment/Water/noF{icon_state = "Fall"; layer = 2; tag = "icon-Fall"},/region)
+"aN" = (/turf/Environment/cliff_edge/jungle{tag = "icon-10"; icon_state = "10"},/region)
+"aO" = (/turf/Environment/cliff_edge/jungle{tag = "icon-2"; icon_state = "2"},/region)
+"aP" = (/turf/Environment/cliff_edge/jungle{tag = "icon-6"; icon_state = "6"},/region)
+"aQ" = (/obj/Woodcutting/Jungle/Tree2,/turf/Environment/Grass/jungle,/area)
+"aR" = (/turf/Environment/Cliffs/Caves/Small,/region)
+"aS" = (/turf/Environment/Water{tag = "icon-bottom"; icon_state = "bottom"},/region)
+"aT" = (/turf/Environment/Water/noF{tag = "icon-bottom"; icon_state = "bottom"},/region)
+"aU" = (/turf/Environment/Water/River,/region)
+"aV" = (/turf/Environment/Water/noF/River,/region)
+"aW" = (/turf/Environment/water_rock,/turf/Environment/Ocean,/region)
+"aX" = (/turf/Environment/Ocean,/region)
+"aY" = (/turf/Environment/Sand,/region)
+"aZ" = (/mob/title,/turf/Environment/Cliffs,/region)
+"ba" = (/obj/Flag/Human,/turf/Environment/Grass,/region)
+"bb" = (/obj/Flag/Orc,/turf/Environment/Grass/jungle,/area)
+"bc" = (/obj/Woodcutting/Jungle/Tree,/turf/Environment/Grass/jungle,/area)
+"bd" = (/obj/Woodcutting/Tree2,/turf/Environment/Grass,/region)
+"be" = (/turf/Environment/cliff_edge/jungle{tag = "icon-2"; icon_state = "2"},/area)
+"bf" = (/turf/Environment/Water/River,/area)
+"bg" = (/obj/Woodcutting/Jungle/Tree2,/turf/Environment/Grass/jungle,/region)
+"bh" = (/turf/Environment/cliff_edge/jungle{tag = "icon-4"; icon_state = "4"},/area)
+"bi" = (/turf/Environment/cliff_edge/jungle{tag = "icon-8"; icon_state = "8"},/area)
+"bj" = (/turf/Environment/Water/River{tag = "icon-river map (EAST)"; icon_state = "river map"; dir = 4},/area)
+"bk" = (/turf/Environment/Water/River{tag = "icon-river map (EAST)"; icon_state = "river map"; dir = 4},/region)
+"bl" = (/obj/Woodcutting/Jungle/Tree3,/turf/Environment/Grass/jungle,/region)
+"bm" = (/turf/Environment/cliff_edge/jungle,/area)
+"bn" = (/turf/Environment/Desert,/area)
+"bo" = (/turf/Environment/Water/River{tag = "icon-river map (WEST)"; icon_state = "river map"; dir = 8},/area)
+"bp" = (/turf/Environment/Desert,/region)
+"bq" = (/turf/Environment/Cave,/area)
+"br" = (/turf/Environment/Dirt,/area)
+"bs" = (/turf/Environment/Cave/Caves/Small,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacacacacacaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaadadadadadadadadadadadadadadaaaaaaaaaaaaaaaaaaaaaaaaaaacacacacaeaeacacacaaaaaaaaaaaa
+aaaaaaaaaaaaadadadadadadadadadadadadadadadadafafafaaaaaaaaaaaaaaaaacacacacaeaeaeaeaeacacaaaaaaaaaaaa
+aaabaaaaaaaaadadadadadadadagagagadadadadadafafafafacacacacacacacacacacacaeaeaeaeaeaeaeacacaaaaaaaaaa
+aaaaaaaaaaadadadagagagagagagagagagagagagagagafafacacacacacacacacacacaeaeaeaeaeaeaeaeaeacacaaaaaaaaaa
+aaaaaaaaaaadadadagagagagahagagagagagaiaiaiaiafafacajacacacacacacacacacacacaeaeaeaeaeaeaeacaaabaaaaaa
+aaaaaaaaaaadadagagagagagagagagaiaiaiaiaiaiaiaiafajajajajacacacacacacacacacacaeaeaeaeaeaeacaaaaaaaaaa
+aaaaaaaaaaadadagagagagagagagaiaiaiaiaiaiaiaiafacajakajajajajacacacacacacacaeaeaeacacaeacacaaaaaaaaaa
+aaaaaaaaadadadagagalagagagaiaiaiaiaiaiaiaiaiafajajajajajajakajajacacacacaeaeaeacacacaeacacaaaaaaaaaa
+aaaaaaadadadadagagagagagaiaiaiaiaiaiaiaiaiafacajajajajajajajajajajacacacacacacacacacacacacacaaaaaaaa
+aaaaadadadadagagagagagagaiaiaiaiamamamananananananaoapaqapajajajajararacacacacacacacacacacacaaaaaaaa
+aaaaadadadagagagagagagaiaiaiaiaiasatauanamamanapapaoavawaxajajakajajarararararacacacacacacayaaaaaaaa
+aaadadadagagagagahagagaiaiaiaiaiazaAaBanamaCaDaqapaoaEaFaGajajajajajaraHararararafacacacacacaaaaaaaa
+aaadadadagagagagagagagaiaiaiaiaiaIaJaKananaLanaMaoaoaNaOaPajajajajajararararararaQacacacacacaaaaaaaa
+aaaaadadadagalagagagagaiaiaiaiaianananananaLanaMaoaoaoaoaoajajajajararararararararacacacacaaaaaaaaaa
+aaaaadadadadagagagagagagaiaiaiaiamamanaRanaSanaTaoaRaoaqapajakajajararararararararacacacacaaaaaaaaaa
+aaaaaaadadadadagagagagagagaiaiaiamamamaAaAaUanaVaFaFapapapajajajararararaQararaHaracacacayaaaaaaaaaa
+aaaaaaaaadadadadagagagagagagaiaiamamaAaAaAaUanaVaFaFaFaFapajajararararararararararacacacacaaaaaaaaaa
+aWaXaXaXaYaYaYaYaAaAaAaAaAaAaUaAaAaAaAaAaAaUaZaVaFaFaFaFaFararararararararararararacacacacaaaaaaaaaa
+aXaXaXaXaXaYaYaYaAaAaAaAaAaAaUaAaAaAaAaAaAaUanaVaFaFaFaFaFarararararararararararararacacacacaaaaaaaa
+aXaXaXaXaXaYaYaYaAaAbaaAaAaAaUaAaAaAaAaAaAaUanaVaFaFaFaFaFarararaQarararaQbbarararararacacacaaaaaaaa
+aXaXaXaXaXaYaYaYaAaAaAaAaAaAaUaAaAaAaAaAaAaUanaVaFaFaFaFaFbcarararararararararararararacacacaaabaaaa
+aXaXaXaXaXaYaYaYaAaAaAaAaAaAaUaAaAbdaAaAaAaUanaVaFaFaFaFaFarararbebebeararararararararacacacacaaaaaa
+aXaXaXaXaXaYadadagagagagagahbfagaAaAaAaAaAaUanaVaFbgaFaFaFararbhajajajbiarararararaQararacacacaaaaaa
+aXaXaXaXaXaYadadagagagagagagbjbjbkbkaUaAaAaUanaVaFaFaFaFaFararbhajajajbiararararararararacacacacaaaa
+aXaXaXaWaXaYadadagagagagagagagagaAaAaUaAaAaUanaVaFaFaFaFaFararbhajajajbiararararararararacacacacaaaa
+aXaXaXaXaXaYadadagagagagagagagagaAaAaUaAaAaUanaVaFaFblaFaFarararbmbmbmarararararararararacacacacaaaa
+aXaXaXaXaYaYadadagagahagagagagagagagbfaAaAaUanaVaFararararararararararararararararararararacacacaaaa
+aXaXaXaXaYaYadadagagagagagagagagagalbfaAaAaUanaVaFararararararararararararararararararararacacacaaaa
+aXaXaXaXaYaYadadagagagagagagagagagagbfaAaAaUanaVaFarararararararararararararbcararararararacacacaaaa
+aWaXaXaXaYaYadagagagagagagagahagagagbfaAaAaUanaVaFarararararararaQararararararararararararacacacaaaa
+aXaXaXaXaYaYadagagagagagagagagagagagbfaAaAaUanaVaFarbcararararararararararararararaHararacacacacaaaa
+aXaXaXaXaYaYadagagagagagagagagagagagbfaAaAaUanaVaFarararararararararararararararararararacacacacaaaa
+aXaXaXaXaYaYadagagagagalagagagagagahbfaAaAaUanaVaFararararararbnbnbnbnbnbnbnararararararacacacacaaaa
+aXaXaXaXaYaYadagagagagagagagbfboboboboaAaAaUanaVaFararararbnbnbnbnbnbnbnbnbnbnararacacacacacacaaaaaa
+aXaXaXaXaXaYadadagagagagagagbfagagagagaAaAaUanaVaFararbnacacacacbnbnbnbnacacacacacacacacacacaaaaaaaa
+aXaXaXaXaXaYadadadadadagagagbfagagagagaAaAaUanaVbpbnbnbnacacacacacacacacacacacacacacacacacacaaaaaaaa
+aXaXaXaXaXaYadadadadadadadadbfadadadadaYaYaUanaVbpbnbnbnacacacacacacacacacacacacacacacacacaaaaaaaaaa
+aXaXaXaXaXaXadadadadadadadadbfadadadadaYaYaUanaVbpaaaaaaaaaaaaacacacacacacacacacacacacacacaaaaaaaaaa
+aXaXaWaXaXaXaaaaaaaaaaaaaaaaaaaaaaaaaaaXaXaXanaXaXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaa
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaWaXaXaXaXaXanananaXaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXanaXaXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aXaXaXaXaXaXaXaXaXaWaXaXaXaXaXaXaXaXaXaXaXaXanaXaWaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbrbrbrbraiaiaibrbrbrbrbrbrbrbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbrbrbrbraiaiaiaibrbrbrbrbrbrbrbqbqbqbrbrbrbrarararararbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbrbrbrbraiaiaiaibrbrbrbrbrbrbrbrbqbqbrbrbrararaiaiaiararbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbqbrbrbrbraraiaiaiaiaiarbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbqbrbrbrbrararaiaiaiaiarbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbqbrbrbrbrbrararaiaiararbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbrbqbqbrbrbrbrbrbrararararbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbrbrbrbrbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbrbrbrbrbrbrbqbsbqbqbqbqbqbsbqbrbrbrbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbrbrbrbrbrbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+bqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbq
+"}
