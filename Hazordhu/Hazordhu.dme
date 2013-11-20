@@ -10,17 +10,27 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "confidential.dm"
 #include "skin.dmf"
 #include "test map.dmm"
+#include "__libs\library definitions.dm"
+#include "__libs\keyboard\_readme.dm"
+#include "__libs\keyboard\default.dm"
+#include "__libs\keyboard\keyboard.dm"
+#include "__libs\listsort\_listsort.dm"
+#include "__libs\listsort\heapsort.dm"
+#include "__libs\listsort\quicksort.dm"
+#include "__libs\mouseposition\mouse-position.dm"
+#include "__libs\overlays\_readme.dm"
+#include "__libs\overlays\overlays.dm"
 #include "__libs\proclib\looper.dm"
 #include "__libs\proclib\plAngle.dm"
 #include "__libs\proclib\plIcon.dm"
 #include "__libs\proclib\plMath.dm"
+#include "__libs\text\_readme.dm"
+#include "__libs\text\text.dm"
 #include "__libs\vectors\vec2.dm"
 #include "_supercode\_define.dm"
 #include "_supercode\_define_settings.dm"
-#include "_supercode\_include.dm"
 #include "_supercode\areas.dm"
 #include "_supercode\Map Save.dm"
 #include "_supercode\Standing Layers.dm"
@@ -205,6 +215,7 @@
 // BEGIN_FILE_DIR
 #define FILE_DIR .
 #define FILE_DIR "__libs"
+#define FILE_DIR "__libs/mouseposition"
 #define FILE_DIR "__libs/proclib"
 #define FILE_DIR "code"
 #define FILE_DIR "code/_RP Events"
